@@ -1,0 +1,17 @@
+student@student-OptiPlex-3050:~$ #!/bin/bash
+student@student-OptiPlex-3050:~$ # Take input from user and calculate sum.
+student@student-OptiPlex-3050:~$ echo "enter your first number:"
+enter your first number:
+student@student-OptiPlex-3050:~$ read num1
+6
+student@student-OptiPlex-3050:~$ echo "enter your second number:"
+enter your second number:
+student@student-OptiPlex-3050:~$ read num2
+3
+student@student-OptiPlex-3050:~$ sum=$(($num1+$num2))
+student@student-OptiPlex-3050:~$ echo "Sum is=$sum"
+Sum is=9
+student@student-OptiPlex-3050:~$ 
+
+
+
